@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Mavani</h1>
 <h3 align="center">An AI/ML Enthusiast from India.</h3>
 
-
 🚀 Currently, I'm immersed in the world of:
    - Machine Learning
    - Deep Learning
@@ -26,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krish mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish mavani" height="30" width="40" /></a>
-<a href="https://kaggle.com/krish mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krish mavani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krish-mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-mavani" height="30" width="40" /></a>
+<a href="https://kaggle.com/krishmavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishmavani" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krish_3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krish_3011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krish_mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish_mavani" height="30" width="40" /></a>
 </p>
